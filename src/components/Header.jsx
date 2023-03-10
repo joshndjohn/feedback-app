@@ -12,7 +12,7 @@ const Header = ({ text, bgColor, textColor, textDecoration }) => {
     <Link to="/">
       <header style={headerStyles}>
         <div className="container">
-          <h2>{text}</h2>
+          <h2>{text}ing</h2>
         </div>
       </header>
     </Link>
