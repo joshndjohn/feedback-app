@@ -23,4 +23,6 @@ const AboutLinkIcon = () => {
   );
 };
 
+console.log("diminutive test");
+
 export default AboutLinkIcon;
